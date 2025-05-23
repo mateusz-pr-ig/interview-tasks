@@ -41,8 +41,10 @@ Task context:
 - You need to implement a user migration from a legacy system to a new system. 
 - The data comes from two different sources (CSV file and database) and requires transformation and deduplication.
 
+## Task 4 - Refactor code and implement getTotalPrice
 
-## Task 4 -  API Code review
+
+## API Code review
 
 
 ```java
@@ -82,7 +84,7 @@ public class UserController {
 }
 ```
 
-## Task 5 - Repository layer code review
+## Repository layer code review
 
 
 ```java
@@ -114,7 +116,7 @@ public class UserRepository {
     }
 }
 ```
-## Task 6 - Entity code review
+## Entity code review
 
 ```java
 @Entity
