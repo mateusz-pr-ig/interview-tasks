@@ -1,4 +1,4 @@
-package com.infogain.interview;
+package com.jmatt.interview;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

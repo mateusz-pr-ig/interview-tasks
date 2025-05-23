@@ -1,4 +1,4 @@
-package com.infogain.interview.task3;
+package com.jmatt.interview.task3;
 
 import org.junit.jupiter.api.Test;
 

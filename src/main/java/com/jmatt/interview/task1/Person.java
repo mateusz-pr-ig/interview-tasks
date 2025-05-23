@@ -1,4 +1,4 @@
-package com.infogain.interview.task1;
+package com.jmatt.interview.task1;
 
 public class Person {
     private String firstName;

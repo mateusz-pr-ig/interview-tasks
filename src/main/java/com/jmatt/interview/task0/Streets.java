@@ -1,4 +1,4 @@
-package com.infogain.interview.task0;
+package com.jmatt.interview.task0;
 
 public class Streets {
   static String [] streets = {

@@ -1,4 +1,4 @@
-package com.infogain.interview.task2;
+package com.jmatt.interview.task2;
 
 import java.util.function.Function;
 import java.util.stream.IntStream;
